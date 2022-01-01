@@ -2,8 +2,8 @@
 ### May the Force be with you!
 
 
-- 🔭 Atualmente estou trabalhando como Coordenador de Sistemas. Sistemas Principais: Tasy, Infomed, SAW e Shift.
-- 🌱 Estudando PL/SQL.
+- 👨‍💼 Atualmente estou trabalhando como Coordenador de Sistemas. Sistemas Principais: Tasy, Infomed, SAW e Shift.
+- 📚 Estudando PL/SQL.
 - 📫 Entre em contato comigo: brunovieira1996@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
